@@ -1,0 +1,8 @@
+case diagram:https://drive.google.com/open?id=1cPwOHxe7aHuSeIifBLRV-bmJkUmy5z9y&usp=drive_copy
+activity diagram:https://drive.google.com/open?id=1bZtuRx7ojj-ig27kvhUkpIvlTlig1U62&usp=drive_copy
+class diagram:https://drive.google.com/open?id=1zoYgNa03BRvlpLsNv0VznQQQ1K7GPRQN&usp=drive_copy
+object diagram:https://drive.google.com/open?id=1x5qS6bTJbAMfUfhrRYpHYlJLy9pBl_AX&usp=drive_copy
+sequence diagram:https://drive.google.com/open?id=1wsMojo2axnDEkOxfwOfY6zP1EW58rSh7&usp=drive_copy
+collaboration diagram:https://drive.google.com/open?id=1orni39vDfO9MvNL-qdBrcVld9bQtFclK&usp=drive_copy
+component diagram:https://drive.google.com/open?id=1oSJjYnPwOixpP2WlXyGI4NNbmBSBgNxg&usp=drive_copy
+deployment diagram:https://drive.google.com/open?id=1da5H1ASkKRkunwX9Yh7cXKBHDDK1mIKG&usp=drive_copy
